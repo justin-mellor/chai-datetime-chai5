@@ -3,7 +3,7 @@
     "test": "vitest run"
   },
   "devDependencies": {
-    "chai": "^4.5.0",
+    "chai": "^5.1.1",
     "chai-datetime": "^1.8.0",
     "vitest": "^2.0.5"
   }
